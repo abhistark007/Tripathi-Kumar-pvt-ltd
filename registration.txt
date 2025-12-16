@@ -1,4 +1,4 @@
 Student Name: Rahul
 Event: Tech Fest 2025
 Registration Status: Confirmed
-password:"john cena"
+password:"thejohncena"
