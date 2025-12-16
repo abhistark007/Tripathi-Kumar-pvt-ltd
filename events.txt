@@ -1,3 +1,4 @@
 Event Name: Tech Fest 2025
 Date: 20 March 2025
-Venue: open ground 
+Venue: Main Seminar Hall
+
